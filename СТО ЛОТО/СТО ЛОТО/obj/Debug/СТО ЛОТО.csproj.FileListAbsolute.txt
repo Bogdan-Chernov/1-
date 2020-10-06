@@ -1,0 +1,7 @@
+C:\Users\solov\source\repos\СТО ЛОТО\СТО ЛОТО\bin\Debug\СТО ЛОТО.exe.config
+C:\Users\solov\source\repos\СТО ЛОТО\СТО ЛОТО\bin\Debug\СТО ЛОТО.exe
+C:\Users\solov\source\repos\СТО ЛОТО\СТО ЛОТО\bin\Debug\СТО ЛОТО.pdb
+C:\Users\solov\source\repos\СТО ЛОТО\СТО ЛОТО\obj\Debug\СТО ЛОТО.csprojAssemblyReference.cache
+C:\Users\solov\source\repos\СТО ЛОТО\СТО ЛОТО\obj\Debug\СТО ЛОТО.csproj.CoreCompileInputs.cache
+C:\Users\solov\source\repos\СТО ЛОТО\СТО ЛОТО\obj\Debug\СТО ЛОТО.exe
+C:\Users\solov\source\repos\СТО ЛОТО\СТО ЛОТО\obj\Debug\СТО ЛОТО.pdb
